@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-XDOTGAMING/XDOTGAMING is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+XDOT RIMEX / @blackofficia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
